@@ -1,0 +1,20 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+        {
+            "quantity": 2,
+            "id_product": 6,
+            "product_name": "the Beatles",
+            "product_album": "Abbey Road",
+            "price": 3200
+        },
+        {
+            "quantity": 1,
+            "id_product": 5,
+            "product_name": "Backstreet Boys",
+            "product_album": "Millenium",
+            "price": 1900
+        }
+    ]
+}
